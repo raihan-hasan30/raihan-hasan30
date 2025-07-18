@@ -39,7 +39,8 @@ A cat-themed Airbnb-style clone with CRUD functionality for listings, bookings, 
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio](#) *(add your link here)*  
+- 🌐 [Portfolio]() *(add your link here)*
+-  [Resume](https://docs.google.com/document/d/1Bvr4UJeCpM8W2-5Pc1Wg9i9QgBcBS6gNRnxqJW4Iq5U/edit?tab=t.0)
 - 💼 [LinkedIn](#) *(add your LinkedIn URL here)*  
 - 📧 raihan_hasan30@yahoo.com
 
